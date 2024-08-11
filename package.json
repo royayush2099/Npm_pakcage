@@ -1,0 +1,22 @@
+{
+  "name": "ayushroy2003",
+  "version": "1.0.0",
+  "description": "this is my npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "Run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royayush2099/Npm_pakcage.git"
+  },
+  "author": "Ayush Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royayush2099/Npm_pakcage/issues"
+  },
+  "homepage": "https://github.com/royayush2099/Npm_pakcage#readme",
+  "bin": {
+  "ayushroy2003": "./index.js"
+}
+}
